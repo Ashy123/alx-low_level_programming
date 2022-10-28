@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-int main(void);
+/**
+ * main - prints new line of code
+ * Return: o
+ */
+
+int main(void)
 {
 	int n;
 	int a[5];
